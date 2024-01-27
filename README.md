@@ -16,3 +16,10 @@ Pythorch Version of Neural Collaborative Filtering at WWW'17
 * Using a network structure that takes advantage of both dot-product (GMF) and MLP
 * Use binary cross-entropy rather than MSE as loss function
 * Use point-wise loss + negative sampling
+
+## Results
+
+
+## Reference
+* [Evaluation Part](https://github.com/guoyang9/NCF)
+* [Data Part](https://github.com/microsoft/recommenders/blob/master/reco_utils/recommender/ncf/dataset.py)
