@@ -19,6 +19,3 @@ Pythorch Version of Neural Collaborative Filtering at WWW'17
 
 ## Results
 
-
-## Reference
-* [Evaluation Part](https://github.com/guoyang9/NCF)
