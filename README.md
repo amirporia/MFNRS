@@ -14,7 +14,7 @@ Pythorch Version of Neural Collaborative Filtering at WWW'17
 * The problem that the thesis intends to solve is to recommend the item to the user based on implicit feedback.
 * Applying deep learning to user-item interaction in matrix factorization
 * Using a network structure that takes advantage of both dot-product (GMF) and MLP
-* Use binary cross-entropy rather than MSE as loss function
+* Use RMSE as loss function
 * Use point-wise loss
 
 ## Results
